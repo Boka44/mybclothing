@@ -1,3 +1,10 @@
+MYB Clothing
+=============
+
+Built with Lemonstand UrbanEssance theme.
+
+Currently being customized and built, more to come soon.
+
 UrbanEssence
 =============
 
