@@ -1,7 +1,7 @@
 MYB Clothing
 =============
 
-Built with Lemonstand UrbanEssance theme.
+Built with Lemonstand UrbanEssence theme.
 
 Currently being customized and built, more to come soon.
 
